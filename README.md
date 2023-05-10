@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on **ML applications in geosciences**
 
-🤔 I’m looking for **new project ideas** related to geosciences
+🤔 I’m looking for **new project ideas** related to petroleum engineering and geosciences
 
 <!--
 **sauvikd/sauvikd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
