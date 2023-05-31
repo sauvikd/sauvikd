@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Sauvik!
 
-🔭 I’m currently working on **ML applications in geosciences**
-
 🤔 I’m looking for **new project ideas** related to petroleum engineering and geosciences
 
 <!--
